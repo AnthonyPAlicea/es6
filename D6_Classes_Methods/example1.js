@@ -15,3 +15,5 @@ let me2 = new Person('Anthony');
 
 console.log(me.greet());
 console.log(me2.greet());
+console.log(me.__proto__);
+console.log(me);
